@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yujun-yan/static/css/main.075485db.chunk.css",
+    "main.js": "/yujun-yan/static/js/main.e44de447.chunk.js",
+    "main.js.map": "/yujun-yan/static/js/main.e44de447.chunk.js.map",
+    "runtime-main.js": "/yujun-yan/static/js/runtime-main.4d092fbb.js",
+    "runtime-main.js.map": "/yujun-yan/static/js/runtime-main.4d092fbb.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/yujun-yan/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.04c2d6d8.chunk.js": "/yujun-yan/static/js/2.04c2d6d8.chunk.js",
+    "static/js/2.04c2d6d8.chunk.js.map": "/yujun-yan/static/js/2.04c2d6d8.chunk.js.map",
+    "index.html": "/yujun-yan/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/yujun-yan/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.075485db.chunk.css.map": "/yujun-yan/static/css/main.075485db.chunk.css.map",
+    "static/js/2.04c2d6d8.chunk.js.LICENSE.txt": "/yujun-yan/static/js/2.04c2d6d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d092fbb.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.04c2d6d8.chunk.js",
+    "static/css/main.075485db.chunk.css",
+    "static/js/main.e44de447.chunk.js"
+  ]
+}
