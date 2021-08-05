@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Particles from "./components/layouts/Particles";
 import Header from "./components/section/Header";
 import About from "./components/section/About";
+import Education from "./components/section/Education";
 import Works from "./components/section/Works";
 import Contact from "./components/section/Contact";
 import AOS from "aos";
@@ -23,6 +24,7 @@ function App() {
       <Header />
       <Particles />
       <About />
+      <Education />
       <Works />
       <Contact />
     </div>
